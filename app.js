@@ -13,7 +13,5 @@ app.controller('myCtrl', ['$scope', 'firebaseObject' function ($scope, $firebase
 
 
 
-}]
 
 
-};
